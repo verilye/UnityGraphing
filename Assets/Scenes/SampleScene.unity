@@ -423,7 +423,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabPoint: {fileID: 6665315217224737089, guid: 9fa9558964cc4dc4c9c7c77fe8cd2693, type: 3}
   resolution: 50
-  function: 3
+  function: 4
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
